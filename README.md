@@ -12,3 +12,4 @@ i have studied and included the libraries which are important for Data science p
 |--- Seaborn
 |--- Matplotlib
 |--- Mathematics
+|--- Misc
